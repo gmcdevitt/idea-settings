@@ -1,0 +1,31 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Tool_External Tools_Open With XMLSpy" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_Show in Windows Explorer" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_Open New Chrome Tab" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Tool_External Tools_XML Spy" icon="$USER_HOME$/OneDrive/Applications/Altova/icons/o_07912b3d181310a9-6.png" />
+    <action id="Tool_External Tools_Open CMD to Current Directory" icon="$USER_HOME$/OneDrive/Applications/_icons/PNG/16/Programming/command_line-16.png" />
+    <action id="Tool_External Tools_Open New Chrome Tab" icon="$USER_HOME$/OneDrive/Applications/_icons/Google/Chrome/Google-Chrome-icon.png" />
+    <action id="Tool_External Tools_Open With XML Spy" icon="$USER_HOME$/OneDrive/Applications/_icons/Altova/o_07912b3d181310a9-6.png" />
+    <action id="Tool_External Tools_Show in Windows Explorer" icon="$USER_HOME$/OneDrive/Applications/_icons/PNG/16/Programming/open_in_browser-16.png" />
+    <action id="RevealIn" />
+    <action id="Tool_External Tools_Open With XMLSpy" icon="$USER_HOME$/OneDrive/Applications/_icons/Altova/o_07912b3d181310a9-6.png" />
+  </component>
+</application>

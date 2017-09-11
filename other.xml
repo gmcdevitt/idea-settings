@@ -1,0 +1,55 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Batch Applications Issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ChangesBarApplicationComponent">
+    <watchForCollisions>true</watchForCollisions>
+    <showPopup>true</showPopup>
+    <addCommentEditor>true</addCommentEditor>
+    <addChangelistScope>false</addChangelistScope>
+    <expandChangelistScope>true</expandChangelistScope>
+    <closeFilesWhenSwitchingChangelist>false</closeFilesWhenSwitchingChangelist>
+    <openFilesWhenSwitchingChangelist>false</openFilesWhenSwitchingChangelist>
+    <openFilesInBackground>true</openFilesInBackground>
+  </component>
+  <component name="IrcPlugin">
+    <preferences>
+      <option name="enableSmilies" value="true" />
+      <option name="enableColors" value="true" />
+      <option name="showTimestamp" value="true" />
+      <option name="logConversations" value="true" />
+      <option name="enableIdentd" value="false" />
+      <option name="identdSystem" value="UNIX" />
+      <option name="identdUser" value="User" />
+      <option name="identdPort" value="113" />
+      <option name="signoffMessage" value="Used IntellIRC" />
+      <option name="nickname" value="Gerard" />
+      <option name="username" value="Gerard" />
+      <option name="realname" value="Gerard" />
+    </preferences>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/nodejs/node.exe">
+      <version-cache version="8.4.0" last-modified="1504801657962" />
+      <npm-package value="C:/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PlayframeworkConfiguration" home="C:\Activator\1.3.10" path="C:\Users\Gerard\Code\Pinnacle21\Enterprise\web" show="true" />
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="EXTRACT_INTERFACE_JAVADOC" value="1" />
+  </component>
+</application>

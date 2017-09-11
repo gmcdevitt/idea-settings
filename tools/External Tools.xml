@@ -1,0 +1,37 @@
+<toolSet name="External Tools">
+  <tool name="Open With XMLSpy" description="The Best XML tool around." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Applications\Altova\XMLSpy2015\XMLSpy.exe" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Applications/Altova/XMLSpy2015" />
+    </exec>
+  </tool>
+  <tool name="Show in Windows Explorer" description="Open the current file in windows explorer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\explorer.exe" />
+      <option name="PARAMETERS" value="/select,$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Open New Chrome Tab" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+      <option name="PARAMETERS" value="file:///$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/Google/Chrome/Application" />
+    </exec>
+  </tool>
+  <tool name="Open CMD to Current Directory" description="Open new CMD window to current files directory." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="/K &quot;cd $FileDir$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="prettier" />
+      <option name="PARAMETERS" value="--write $FilePathRelativeToProjectRoot$/**/(*.js|*.jsx)" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
