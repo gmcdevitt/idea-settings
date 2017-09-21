@@ -1,0 +1,12 @@
+<templateSet group="surround">
+  <template name="settimeoutasync" value=" setTimeout(async () =&gt; {&#10;   $SELECTION$ &#10; }, Math.floor(Math.random() * 1000));" description="Surround with an async set timeout" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="settimeout" value=" setTimeout(() =&gt; {&#10;   $SELECTION$ &#10; }, Math.floor(Math.random() * 1000));" description="Surround with a set timeout" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
