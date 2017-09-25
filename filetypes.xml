@@ -7,7 +7,6 @@
       <mapping pattern="pieces" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="*.scala.xml" type="Play2" />
       <mapping pattern="*.scala.html" type="Play2" />
     </extensionMap>
