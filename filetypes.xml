@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="rpmdeploy" type="Bash" />
+      <mapping pattern="InputClass" type="CLASS" />
       <mapping ext="p12" type="Native" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
