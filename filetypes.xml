@@ -6,12 +6,13 @@
       <mapping ext="p12" type="Native" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
       <mapping pattern="jfrog" type="PLAIN_TEXT" />
-      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".sbtserver.lock" type="PLAIN_TEXT" />
       <mapping pattern="pieces" type="PLAIN_TEXT" />
       <mapping pattern="sig" type="PLAIN_TEXT" />
+      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="etag" type="PLAIN_TEXT" />
       <mapping pattern="*.scala.html" type="Play2" />
       <mapping pattern="*.scala.xml" type="Play2" />
