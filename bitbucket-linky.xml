@@ -9,4 +9,9 @@
     <lookup />
   </component>
   <component name="Instance" id="295be909-2083-4ff1-8efd-85b90b412f2e" version="6.3" />
+  <component name="UsageLog">
+    <event name="CopyLinkToCommit" place="" timestamp="2019-02-11T20:45:17.958Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+  </component>
 </application>
