@@ -16,14 +16,14 @@
       <mapping pattern="pieces" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="pkcs8_key" type="PLAIN_TEXT" />
-      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="etag" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="xpt" type="PLAIN_TEXT" />
-      <mapping ext="etag" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.scala.html" type="Play2" />
       <mapping pattern="*.scala.xml" type="Play2" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
