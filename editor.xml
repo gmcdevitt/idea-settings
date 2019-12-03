@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
   </component>
@@ -6,7 +9,6 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="2000" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
