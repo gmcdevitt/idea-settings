@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="PostgreSQL" injector-id="java">
+      <display-name>RawSqlBuilder.unparsed (io.ebean)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("unparsed").withParameters("java.lang.String").definedInClass("io.ebean.RawSqlBuilder"))]]></place>
+    </injection>
+  </component>
+</application>
