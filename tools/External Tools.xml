@@ -27,11 +27,4 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Prettier" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\node_modules\prettier\index.js" />
-      <option name="PARAMETERS" value="--write $FilePathRelativeToProjectRoot$/**/(*.js|*.jsx)" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
 </toolSet>
