@@ -12,8 +12,10 @@
     </blacklists>
     <disabledLanguages>
       <language id="JAVA" />
-      <language id="kotlin" />
+      <language id="TypeScript" />
+      <language id="JavaScript" />
       <language id="Groovy" />
+      <language id="SQL" />
     </disabledLanguages>
   </component>
 </application>
