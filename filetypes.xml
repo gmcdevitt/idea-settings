@@ -6,7 +6,6 @@
       <mapping ext="p12" type="Native" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
       <mapping pattern="jfrog" type="PLAIN_TEXT" />
-      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="standardOpenModalButton" type="PLAIN_TEXT" />
       <mapping pattern="pkcs8_key" type="PLAIN_TEXT" />
       <mapping pattern="findApplicationsInDateRange.sql" type="PLAIN_TEXT" />
@@ -15,6 +14,7 @@
       <mapping pattern="pieces" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern="sig" type="PLAIN_TEXT" />
+      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
