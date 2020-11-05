@@ -4,7 +4,7 @@
       <list>
         <TemplateResource>
           <option name="fileName" value="Use Variable Name" />
-          <option name="template" value="#if($field.modifierStatic)&#10;static ##&#10;#end&#10;$field.type ##&#10;${field.name}##&#10;() {&#10;  return $field.name;&#10;}" />
+          <option name="template" value="#if($field.modifierStatic)&#10;static ##&#10;#end&#10;$field.type ##&#10;${field.name}##&#10;() {&#10;  return this.$field.name;&#10;}" />
         </TemplateResource>
       </list>
     </option>
