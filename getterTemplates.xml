@@ -1,5 +1,5 @@
 <application>
-  <component name="GetterTemplates" defaultTemplateName="Use Variable Name">
+  <component name="GetterTemplates" defaultTemplateName="IntelliJ Default">
     <option name="templates">
       <list>
         <TemplateResource>
