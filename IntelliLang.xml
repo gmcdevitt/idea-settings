@@ -1,7 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="PostgreSQL" injector-id="java">
-      <display-name>Ebean.createSqlUpdate (io.ebean)</display-name>
+      <display-name>Ebean (io.ebean)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSqlQuery").withParameters("java.lang.String").definedInClass("io.ebean.Ebean"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSqlUpdate").withParameters("java.lang.String").definedInClass("io.ebean.Ebean"))]]></place>
     </injection>
     <injection language="PostgreSQL" injector-id="java">
