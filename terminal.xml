@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="pwsh.exe" />
+    <option name="myShellPath" value="C:\Users\Gerard\scoop\apps\pwsh\current\pwsh.exe" />
+    <option name="myTabName" value="Local" />
   </component>
 </application>
