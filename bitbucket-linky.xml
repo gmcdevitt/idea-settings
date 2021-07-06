@@ -34,5 +34,11 @@
       <attribute name="multipleCarets">false</attribute>
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2021-07-06T18:52:26.267107500Z">
+      <attribute name="editor">true</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>
