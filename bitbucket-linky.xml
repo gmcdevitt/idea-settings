@@ -61,5 +61,11 @@
     <event name="CreatePullRequest" place="GoToAction" timestamp="2021-07-19T14:42:44.130512900Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2021-07-19T16:29:01.844379100Z">
+      <attribute name="editor">true</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>
