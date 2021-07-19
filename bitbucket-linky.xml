@@ -67,5 +67,20 @@
       <attribute name="multipleCarets">false</attribute>
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2021-07-19T17:50:10.207939500Z">
+      <attribute name="editor">true</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2021-07-19T17:53:23.350418400Z">
+      <attribute name="editor">true</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CreatePullRequest" place="GoToAction" timestamp="2021-07-19T18:05:51.629561400Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>
