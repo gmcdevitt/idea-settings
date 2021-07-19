@@ -58,5 +58,8 @@
       <attribute name="multipleCarets">false</attribute>
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CreatePullRequest" place="GoToAction" timestamp="2021-07-19T14:42:44.130512900Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>
