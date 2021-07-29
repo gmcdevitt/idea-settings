@@ -21,6 +21,8 @@
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping pattern="*.scala.xml" type="Play2" />
+      <removed_mapping pattern="spring.handlers" type="Properties" />
+      <removed_mapping pattern="spring.schemas" type="Properties" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
