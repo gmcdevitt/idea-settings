@@ -22,6 +22,7 @@
       <mapping ext="xpt" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping pattern="*.scala.xml" type="Play2" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
@@ -38,7 +39,6 @@
       <removed_mapping pattern="routes" approved="true" type="Play 2 Routing" />
       <removed_mapping pattern="spring.handlers" approved="true" type="Properties" />
       <removed_mapping pattern="spring.schemas" approved="true" type="Properties" />
-      <mapping pattern="*.scala.xml" type="Play2" />
       <mapping pattern="rpmdeploy" type="Bash" />
     </extensionMap>
   </component>
