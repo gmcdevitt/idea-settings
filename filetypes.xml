@@ -10,19 +10,20 @@
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="jfrog" type="PLAIN_TEXT" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
+      <mapping pattern="pieces" type="PLAIN_TEXT" />
+      <mapping pattern="findApplicationsInDateRange.sql" type="PLAIN_TEXT" />
       <mapping pattern="pkcs8_key" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="standardOpenModalButton" type="PLAIN_TEXT" />
       <mapping pattern=".sbtserver.lock" type="PLAIN_TEXT" />
       <mapping pattern="sig" type="PLAIN_TEXT" />
-      <mapping pattern="pieces" type="PLAIN_TEXT" />
-      <mapping pattern="findApplicationsInDateRange.sql" type="PLAIN_TEXT" />
       <mapping ext="etag" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="xpt" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping pattern="*.scala.xml" type="Play2" />
+      <mapping pattern="*.scala.txt" type="Play2" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
