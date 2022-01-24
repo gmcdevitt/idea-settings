@@ -10,13 +10,13 @@
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="jfrog" type="PLAIN_TEXT" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
-      <mapping pattern="pieces" type="PLAIN_TEXT" />
-      <mapping pattern="findApplicationsInDateRange.sql" type="PLAIN_TEXT" />
       <mapping pattern="pkcs8_key" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="standardOpenModalButton" type="PLAIN_TEXT" />
       <mapping pattern=".sbtserver.lock" type="PLAIN_TEXT" />
+      <mapping pattern="pieces" type="PLAIN_TEXT" />
       <mapping pattern="sig" type="PLAIN_TEXT" />
+      <mapping pattern="findApplicationsInDateRange.sql" type="PLAIN_TEXT" />
       <mapping ext="etag" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="xpt" type="PLAIN_TEXT" />
