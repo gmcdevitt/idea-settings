@@ -1,0 +1,6 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$USER_HOME$/Code/Pinnacle21/Community/p21-community/node_modules/electron/dist/electron.exe" />
+    <local-interpreter path="C:/nodejs/node.exe" />
+  </component>
+</application>
