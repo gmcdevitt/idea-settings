@@ -82,20 +82,6 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
-  <component name="NodeRendererSettings">
-    <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundNodeRenderer">
-        <option name="NAME" value="FullList" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.util.List" />
-        <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="java.util.List" />
-          <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="String.join(&quot;, &quot;, this)&#13;org.apache.commons.collections4.CollectionUtils&#13;JAVA" />
-        </Renderer>
-      </Renderer>
-    </CustomRenderers>
-  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
