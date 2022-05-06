@@ -1,5 +1,8 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Code/Pinnacle21/Enterprise/web/conf/application-env.conf" value="HOCON" />
+    <file url="file://$USER_HOME$/Code/Pinnacle21/Enterprise/web/conf/application-local.conf" value="HOCON" />
     <file url="file://$USER_HOME$/Code/Pinnacle21/Enterprise/web/conf/application-test.conf" value="HOCON" />
+    <file url="file://$USER_HOME$/Code/Pinnacle21/Enterprise/web/conf/application.conf" value="HOCON" />
   </component>
 </application>
