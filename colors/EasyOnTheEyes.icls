@@ -580,6 +580,11 @@
         <option name="ERROR_STRIPE_COLOR" value="616161" />
       </value>
     </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="41a4ec" />
+      </value>
+    </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="678cb1" />
