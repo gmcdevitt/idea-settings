@@ -64,6 +64,11 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSqlQuery").withParameters("java.lang.String").definedInClass("io.ebean.Ebean"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSqlUpdate").withParameters("java.lang.String").definedInClass("io.ebean.Ebean"))]]></place>
     </injection>
+    <injection language="PostgreSQL" injector-id="java">
+      <display-name>EbeanServer.createSqlUpdate (io.ebean)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSqlUpdate").withParameters("java.lang.String").definedInClass("io.ebean.EbeanServer"))]]></place>
+    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>JDBI (org.jdbi.v3.core)</display-name>
       <ignore-pattern>&lt;\w+&gt;</ignore-pattern>
