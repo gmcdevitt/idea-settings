@@ -1,17 +1,28 @@
 <application>
   <component name="CachedDictionaryState">
     <words>
-      <w>adrg</w>
-      <w>approver</w>
-      <w>beanplot</w>
+      <w>amirite</w>
+      <w>assignability</w>
       <w>cdisc</w>
-      <w>codelists</w>
-      <w>gradebook</w>
-      <w>nmpa</w>
-      <w>npma</w>
-      <w>pmda</w>
-      <w>sdrg</w>
+      <w>codelist</w>
+      <w>customfields</w>
+      <w>dataset</w>
+      <w>datasets</w>
+      <w>debounce</w>
+      <w>devitt</w>
+      <w>dotenv</w>
+      <w>meetingburner</w>
+      <w>ndfrt</w>
+      <w>noop</w>
+      <w>salesforce</w>
       <w>sdtm</w>
+      <w>snomed</w>
+      <w>suppfacm</w>
+      <w>suppqs</w>
+      <w>suppqual</w>
+      <w>uglify</w>
+      <w>unii</w>
+      <w>xerces</w>
     </words>
   </component>
 </application>
