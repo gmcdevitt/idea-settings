@@ -1,6 +1,11 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="PostgreSQL" injector-id="java">
+      <display-name>Ebean.findNative (io.ebean)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("findNative").withParameters("java.lang.Class", "java.lang.String").definedInClass("io.ebean.Ebean"))]]></place>
+    </injection>
+    <injection language="PostgreSQL" injector-id="java">
       <display-name>RawSqlBuilder.unparsed (io.ebean)</display-name>
       <single-file value="false" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("unparsed").withParameters("java.lang.String").definedInClass("io.ebean.RawSqlBuilder"))]]></place>
